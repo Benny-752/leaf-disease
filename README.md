@@ -1,4 +1,4 @@
-# leaf-disease
+# Leaf-disease-detection
 
 In this leaf disease detection project, we have made use of CNN (or Convolution Neural Network) to train a model using training data and test it against test data. 
 
